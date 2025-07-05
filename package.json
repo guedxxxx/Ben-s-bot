@@ -1,0 +1,21 @@
+{
+  "name": "bens-market-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for Ben's Market selling Grow a Garden pets and sheckles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "grow-a-garden",
+    "market"
+  ],
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
